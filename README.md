@@ -33,6 +33,8 @@
    cd movievault
 
    
-**Screenshots**
+**Screenshots :**
 ![Image](https://github.com/user-attachments/assets/316ae2ac-0c28-4265-b14b-f5ae84da36d5)
+
+![Image](https://github.com/user-attachments/assets/506cf87e-f9b9-4ade-95c6-077e9a3e84f2)
 
