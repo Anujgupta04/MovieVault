@@ -32,6 +32,9 @@
    git clone https://github.com/Anujgupta04/MovieVault.git
    cd movievault
 
+2. **Visit the web site**
+   You can view my web site by clicking on this link  https://anujgupta04.github.io/MovieVault/
+
    
 **Screenshots :**
 ![Image](https://github.com/user-attachments/assets/316ae2ac-0c28-4265-b14b-f5ae84da36d5)
